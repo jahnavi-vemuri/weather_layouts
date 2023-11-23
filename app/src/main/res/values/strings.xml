@@ -1,0 +1,12 @@
+<resources>
+    <string name="search">Search the Location</string>
+    <string name="error">Enter the City Name</string>
+    <string name="app_name">WEATHER</string>
+    <string name="app_tag">simplified for YOU</string>
+    <string name="button">Know More</string>
+    <string name="data">"Weather data not available"</string>
+    <string name="cityName">"Enter a valid city name"</string>
+    <string name="title">"Weather app says"</string>
+    <string name="apifailed">API failed</string>
+    <string name="google_map_api">AIzaSyDAVhw3L7yfzHvOUfKhUajX590e16-qtO8</string>
+</resources>
